@@ -17,7 +17,7 @@
 
 
 ## Структура проекта:
-- `parser_tuturu.ipynb` - блокнот с парсером, который с сайта tutu.ru достает информацию по авиабилетам.
+- [`parser_tuturu.ipynb`](https://github.com/dmitrymonahov/project_andan_2024/blob/main/parser_tuturu.ipynb) - блокнот с парсером, который с сайта tutu.ru достает информацию по авиабилетам.
 - `raw_data.txt` - данные, полученные с помощью парсера.
 - `data.txt` - предобработанные данные.
 - `from_raw_to_clear.ipynb` - блокнот с кодом, который обрабатывает файл `raw_data.txt` в `data.txt`.

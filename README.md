@@ -18,10 +18,10 @@
 
 ## Структура проекта:
 - [`parser_tuturu.ipynb`](https://github.com/dmitrymonahov/project_andan_2024/blob/main/parser_tuturu.ipynb) - блокнот с парсером, который с сайта tutu.ru достает информацию по авиабилетам.
-- `raw_data.txt` - данные, полученные с помощью парсера.
-- `data.txt` - предобработанные данные.
-- `from_raw_to_clear.ipynb` - блокнот с кодом, который обрабатывает файл `raw_data.txt` в `data.txt`.
-- `DA_project.ipynb` - блокнот, в котором происходит вся обработка датасета `data.txt`, визуализация, проверка гипотез, выводы, обучение модели предсказания цены билеты.
+- [`raw_data.txt`](https://github.com/dmitrymonahov/project_andan_2024/blob/main/raw_data.txt) - данные, полученные с помощью парсера.
+- [`data.txt`](https://github.com/dmitrymonahov/project_andan_2024/blob/main/data.txt) - предобработанные данные.
+- [`from_raw_to_clear.ipynb`](https://github.com/dmitrymonahov/project_andan_2024/blob/main/from_raw_to_clear.ipynb) - блокнот с кодом, который обрабатывает файл `raw_data.txt` в `data.txt`.
+- [`DA_project.ipynb`](https://github.com/dmitrymonahov/project_andan_2024/blob/main/DA_project.ipynb) - блокнот, в котором происходит вся обработка датасета `data.txt`, визуализация, проверка гипотез, выводы, обучение модели предсказания цены билеты.
 
 ## Гипотезы
 - цена авиабилета не зависит от времени отправления (исследовать среднюю стоимость билета в среднем по часам суток)
